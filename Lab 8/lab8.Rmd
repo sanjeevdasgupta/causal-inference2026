@@ -489,7 +489,7 @@ kable(data.frame(
 
 ## Group discussion
 
-**Whole class (5 minutes).** Do the results look more convincing for `infopro` than for `support`? Why might media exposure affect feeling informed more directly than vote choice or policy support?
+Do the results look more convincing for `infopro` than for `support`? Why might media exposure affect feeling informed more directly than vote choice or policy support?
 
 # Step 9: Assumptions
 
