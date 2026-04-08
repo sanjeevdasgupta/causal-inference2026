@@ -199,7 +199,7 @@ summary(m_rf_support)
 This is the **intention-to-treat (ITT)** effect of encouragement on support for Proposition 209.
 The coefficient on `conditn` captures how much support changes when people are encouraged to watch, regardless of whether they actually watch.
 
-## Discussion prompt
+## Discussion 
 
 **Individual (2 minutes).** If encouragement affects the outcome only through viewing the debate, why might the ITT effect be smaller in magnitude than the effect of actually viewing?
 
